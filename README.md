@@ -78,21 +78,3 @@ encoder = DistributedFeatureEncoder(categorical_columns=["country", "device_type
 encoded_df = encoder.fit_transform(spark_df)
 pdf = reader.to_pandas(encoded_df, sample_ratio=0.1)
 ```
-
-## Reproducibility and Data Governance
-
-- Keep credentials outside source code (environment variables or secret managers).
-- Record storage URI, Spark configuration, and sampling parameters in experiments.
-- Use schema validation and row-level sanity checks before model training.
-
-## Open-Source Compliance
-
-- License: MIT (see `LICENSE`).
-- Source code follows typed, modular Python package conventions.
-- English docstrings/comments are used for international collaboration.
-- Contributions should include tests and clear rationale in pull requests.
-
-## Citation (Recommended)
-
-If this project contributes to academic or industrial reports, cite the
-repository and include the commit hash used in experiments for traceability.
